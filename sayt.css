@@ -1,0 +1,34 @@
+BODY 
+.GS {
+	text-align:center;
+	}
+
+.K {
+	color: #ed0e3f;
+	font-style: initial;
+}
+.O {
+	color: #ed850e;
+}
+.X {
+	color: #f0d826;
+}
+.Z {
+	color: #009900;
+}
+.G {
+	color: #26f0d5;
+}
+.S {
+	color: #265cf0;
+}
+.F {
+	color: #e609ed;
+}
+.H3 {
+	margin: 5px 50px 5px 50px;
+border-width: thick;
+border-style: solid;
+border-color: #f70a0a;
+font-size: 20pt;
+}
